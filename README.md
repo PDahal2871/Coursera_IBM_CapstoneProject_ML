@@ -1,2 +1,2 @@
-# Coursera_IBM_CapstoneProject_ML
+# CapstoneProject_ML_IBM_Cousera
 Project is about ML techniques.
